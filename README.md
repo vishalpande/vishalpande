@@ -18,8 +18,15 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
+Feel free to contact me via:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vishalpande-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vishalpande)](https://www.linkedin.com/in/vishalpande)
+[![Gmail Badge](https://img.shields.io/badge/-vishalpande@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:vishalpande0812@gmail.com)](mailto:vishalpande0812@gmail.com)
+
+
 <br/>
 <br/>
+
 
 
 
