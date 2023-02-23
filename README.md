@@ -1,4 +1,4 @@
-## Hola, I'm [Vishal Pande!](https://vishalpande.github.io/) 👋
+## Hola, I'm [Vishal!](https://vishalpande.github.io/) 👋
 
 <br/>
 <br/>
