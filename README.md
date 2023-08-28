@@ -48,6 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB"  alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
