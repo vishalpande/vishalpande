@@ -43,9 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
