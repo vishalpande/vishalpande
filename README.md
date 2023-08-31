@@ -13,7 +13,7 @@
 </div>
 
   <img src="https://komarev.com/ghpvc/?username=vishalpande&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/vishalpande/stargazers"><img src="https://img.shields.io/github/stars/vishalpande" alt="Stars Badge"/></a>
+  <a href="https://github.com/vishalpande/stargazers"><img src="https://img.shields.io/github/stars/vishalpande" alt="Stars Badge"/></a>
 
   <h1>
      Hola, I'm Vishal
