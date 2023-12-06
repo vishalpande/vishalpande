@@ -26,7 +26,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+ About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+Languages and Tools :
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Status :
+My Status :
 <p align="center">
   <a href="#">
     <img
