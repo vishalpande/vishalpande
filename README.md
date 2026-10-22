@@ -26,18 +26,24 @@
 
 ---
 
-About Me :
+## 👋 About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+Hi, I'm **Vishal Pande**, a Full Stack Developer from India 🇮🇳
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack Development.**
-- :blue_heart: Fall in  love with **React.js.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **JavaScript Framework.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **UI/UX And 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/vishalpande/vishalpande/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+I build web applications, developer tools, and practical solutions using modern JavaScript technologies.
+
+<img align="right" height="250" width="350" alt="Coding animation" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+
+- 💻 Working with **React.js, JavaScript, Node.js, Express.js, and MongoDB**.
+- ❤️ Passionate about building clean, responsive, and user-friendly applications.
+- 🛠️ Experienced in REST API integration, database modeling, and hybrid iPad applications.
+- 🚀 Built and launched **QuickDevTools**, a platform featuring 41 free developer utilities.
+- 🔍 Created **DriftWatch DevTools**, a Chrome DevTools extension for detecting API-to-UI data inconsistencies.
+- 🌱 Continuously learning about frontend architecture, web performance, and software engineering best practices.
+- 🤝 Open to collaborating on **open-source projects, developer tools, and web applications**.
+- 💬 Ask me about **React.js, JavaScript, Node.js, REST APIs, and web development**.
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/vishalpande).
+
 
 ---
 
